@@ -13,7 +13,7 @@
 
 Utilizing a portion of the dataset, we organized an individual tree segmentation [**competition**](https://www.codabench.org/competitions/8821/) for the upcoming 9th China LiDAR Conference.
 
-Participants may access the competition-version training and testing datasets by fill out this [**Data Request**](https://docs.google.com/forms/d/e/1FAIpQLSeVE2BEoUfvM-oQ4qD4IUjEmhAcPPzO_GV0S-8-Y0dwGWpcRQ/viewform?usp=sharing&ouid=114228518391116203961).
+Participants may access the competition-version training and testing datasets by fill out this [**Data Request**](https://wj.qq.com/s2/22633489/3p1t/).
 
 Download links will be sent automatically after completing the application.
 
