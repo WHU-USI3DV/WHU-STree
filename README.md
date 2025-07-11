@@ -11,7 +11,7 @@
 
 ## 📌 Competition
 
-Utilizing a portion of the dataset, we organized an individual tree segmentation [**competition**](https://www.codabench.org/competitions/8821/) for the upcoming 9th China LiDAR Conference.
+Utilizing **a portion of** the dataset, we organized an individual tree segmentation [**competition**](https://www.codabench.org/competitions/8821/) for the upcoming 9th China LiDAR Conference.
 
 Participants may access the competition-version training and testing datasets by fill out this [**Data Request**](https://wj.qq.com/s2/22633489/3p1t/).
 
