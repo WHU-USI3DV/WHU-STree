@@ -79,6 +79,10 @@ Each `.ply` point cloud file contains per-point attributes:
 - `tree`: Instance label 
 - `label`: Tree species label 
 
+## 📊 Benchmark
+
+
+
 ## ⭐ Citation
 
 This work is currently under review. If you find our work useful for your research, we kindly invite you to follow updates on this project.
