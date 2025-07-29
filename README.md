@@ -6,7 +6,7 @@
   The study presents WHU-STree, a pioneering multi-modal dataset designed to address critical gaps in urban street tree inventory research. By integrating synchronized point clouds and high-resolution images collected across two geographically distinct cities, WHU-STree offers a comprehensive resource for advancing automated urban forestry management. The dataset encompasses 21,007 annotated tree instances with species labels for 50 tree species and morphological parameters, enabling simultaneous support for tasks such as individual tree segmentation, species classification, and 3D morphological analysis. Its cross-city collection strategy, combined with rich annotations and multi-modal integration, sets a new benchmark for evaluating algorithmic generalization and robustness in real-world urban environments.
 
 <p align="center">
-  <img src="media/teaser.png" alt="Network" style="width:65%" />
+  <img src="media/teaser_final.png" alt="Network" style="width:65%" />
 </p>
 
 ## 📌 Competition
