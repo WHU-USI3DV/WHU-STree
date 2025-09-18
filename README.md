@@ -81,7 +81,7 @@ Each `.ply` point cloud file contains per-point attributes:
 
 ## 📊 Benchmark
 
-<video src="media/result_sy_low.mp4" width="100%" controls>
+
 
 ## ⭐ Citation
 
