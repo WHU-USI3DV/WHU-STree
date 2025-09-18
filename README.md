@@ -85,20 +85,5 @@ Each `.ply` point cloud file contains per-point attributes:
 
 ## ⭐ Citation
 
-If you find our work useful in your research, please consider citing:
-
-```
-@misc{ding2025whustreemultimodalbenchmarkdataset,
-      title={WHU-STree: A Multi-modal Benchmark Dataset for Street Tree Inventory}, 
-      author={Ruifei Ding and Zhe Chen and Wen Fan and Chen Long and Huijuan Xiao and Yelu Zeng and Zhen Dong and Bisheng Yang},
-      year={2025},
-      eprint={2509.13172},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2509.13172}, 
-}
-```
-
-
 This work is currently under review. If you find our work useful for your research, we kindly invite you to follow updates on this project.
 
