@@ -9,15 +9,19 @@
   <img src="media/teaser_final.png" alt="Network" style="width:65%" />
 </p>
 
-## 📌 Competition
+## 📌 Download
+
+Fill in this  [**Data Request**](https://wj.qq.com/s2/24852142/0539/) to obtain the Baidu Netdisk link. For Google Netdisk, fill in this one (need to add).
+
+## ✅ Competition
 
 Utilizing **a portion of** the dataset, we organized an individual tree segmentation [**competition**](https://www.codabench.org/competitions/8821/) for the upcoming 9th China LiDAR Conference.
 
-Participants may access the competition-version training and testing datasets by fill out this [**Data Request**](https://wj.qq.com/s2/22633489/3p1t/).
-
-Download links will be sent automatically after completing the application.
-
 For detailed competition specifications, please refer to the [**official conference website**](http://lidar2025wuhan.com/)
+
+<s>Participants may access the competition-version training and testing datasets by fill out this [**Data Request**](https://wj.qq.com/s2/22633489/3p1t/).</s>
+
+Since the competition has concluded, we will no longer provide the competition-version data.
 
 ## ✨ Dataset
 
@@ -77,7 +81,13 @@ Each `.ply` point cloud file contains per-point attributes:
 
 ​**Among them**:  
 - `tree`: Instance label 
-- `label`: Tree species label 
+- `label`: Tree species label
+
+Details of tree species annotations are shown in the following tabel.
+
+<p align="center">
+  <img src="media/treespecies.jpg" alt="Network" style="width:40%" />
+</p>
 
 ## 📊 Benchmark
 
