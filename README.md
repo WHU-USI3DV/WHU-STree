@@ -83,7 +83,7 @@ Each `.ply` point cloud file contains per-point attributes:
 - `tree`: Instance label 
 - `label`: Tree species label
 
-Details of tree species annotations are shown in the following tabel.
+Details of tree species annotations are shown in the following table. It should be noted that, during the benchmark experiment, we have grouped species less than 150 instances into "others" as shown in the table. However, we consider the original annotations of these "others" species to remain valuable, and therefore their labeling information has been preserved in the "label" field, specifically for those with label IDs equal to 17 or greater than 18.
 
 <p align="center">
   <img src="media/description_01.png" alt="Network" style="width:40%" />
