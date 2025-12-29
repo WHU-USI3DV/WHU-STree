@@ -86,7 +86,7 @@ Each `.ply` point cloud file contains per-point attributes:
 Details of tree species annotations are shown in the following tabel.
 
 <p align="center">
-  <img src="media/treespecies.jpg" alt="Network" style="width:40%" />
+  <img src="media/description_01.jpg" alt="Network" style="width:40%" />
 </p>
 
 ## 📊 Benchmark
