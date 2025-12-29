@@ -13,6 +13,8 @@
 
 Fill in this  [**Data Request**](https://wj.qq.com/s2/24852142/0539/) to obtain the Baidu Netdisk link. For Google Netdisk, fill in this one (need to add).
 
+**Given that this work is still under review, necessary updates may follow accordingly. Therefore, please stay tuned to this project.**
+
 ## ✅ Competition
 
 Utilizing **a portion of** the dataset, we organized an individual tree segmentation [**competition**](https://www.codabench.org/competitions/8821/) for the upcoming 9th China LiDAR Conference.
@@ -86,7 +88,7 @@ Each `.ply` point cloud file contains per-point attributes:
 Details of tree species annotations are shown in the following table. It should be noted that, during the benchmark experiment, we have grouped species less than 150 instances into "others" as shown in the table. However, we consider the original annotations of these "others" species to remain valuable, and therefore their labeling information has been preserved in the "label" field, specifically for those with label IDs equal to 17 or greater than 18.
 
 <p align="center">
-  <img src="media/description_01.png" alt="Network" style="width:40%" />
+  <img src="media/description_01.png" alt="Network" style="width:60%" />
 </p>
 
 ## 📊 Benchmark
