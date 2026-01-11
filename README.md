@@ -88,7 +88,7 @@ Each `.ply` point cloud file contains per-point attributes:
 Details of tree species annotations are shown in the following table. It should be noted that, during the benchmark experiment, we have grouped species less than 150 instances into "others" as shown in the table. However, we consider the original annotations of these "others" species to remain valuable, and therefore their labeling information has been preserved in the "label" field, specifically for those with label IDs greater than 17.
 
 <p align="center">
-  <img src="media/statistics.png" alt="Network" style="width:60%" />
+  <img src="media/species.png" alt="Network" style="width:60%" />
 </p>
 
 ## 📊 Benchmark
