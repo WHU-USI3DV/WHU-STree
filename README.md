@@ -11,7 +11,7 @@
 
 ## 📌 Download
 
-Fill in this  [**Data Request**](https://wj.qq.com/s2/24852142/0539/) to obtain the dataset. 
+Fill in this  [**Data Request**](https://wj.qq.com/s2/24852142/0539/) to obtain the dataset. We provide download links for both Baidu Netdisk and Google Drive.
 
 **Given that this work is still under review, necessary updates may follow accordingly. Therefore, please stay tuned to this project.**
 
