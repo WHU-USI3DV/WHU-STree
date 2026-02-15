@@ -97,5 +97,17 @@ Details of tree species annotations are shown in the following table. It should 
 
 ## ⭐ Citation
 
-This work is currently under review. If you find our work useful for your research, we kindly invite you to follow updates on this project.
+If you find our work useful in your research, please consider citing:
+
+```
+@article{ding2026whu,
+  title={WHU-STree: A multi-modal benchmark dataset for street tree inventory},
+  author={Ding, Ruifei and Chen, Zhe and Fan, Wen and Long, Chen and Xiao, Huijuan and Zeng, Yelu and Dong, Zhen and Yang, Bisheng},
+  journal={ISPRS Journal of Photogrammetry and Remote Sensing},
+  volume={233},
+  pages={519--542},
+  year={2026},
+  publisher={Elsevier}
+}
+```
 
