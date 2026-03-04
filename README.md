@@ -1,13 +1,22 @@
-<h1 align="center"> <p> WHU-STree </p></h1>
+<h1 align="center"> <p> WHU-STree: A Multi-modal Benchmark Dataset for Street Tree Inventory </p></h1>
 <h3 align="center">
-<a href="https://github.com/WHU-USI3DV/WHU-STree/" target="_blank">WHU-STree: A Multi-modal Benchmark Dataset for Street Tree Inventory</a>
 </h3>
+This is the official repository of the following publication:
 
+> **WHU-STree: A Multi-modal Benchmark Dataset for Street Tree Inventory**<br/>
+> *ISPRS Journal of Photogrammetry and Remote Sensing, 2026*<br/>
+> [**Paper**](https://doi.org/10.1016/j.isprsjprs.2026.02.011)
+
+## 🔭 Introduction
   The study presents WHU-STree, a pioneering multi-modal dataset designed to address critical gaps in urban street tree inventory research. By integrating synchronized point clouds and high-resolution images collected across two geographically distinct cities, WHU-STree offers a comprehensive resource for advancing automated urban forestry management. The dataset encompasses 21,007 annotated tree instances with species labels for 50 tree species and morphological parameters, enabling simultaneous support for tasks such as individual tree segmentation, species classification, and 3D morphological analysis. Its cross-city collection strategy, combined with rich annotations and multi-modal integration, sets a new benchmark for evaluating algorithmic generalization and robustness in real-world urban environments.
 
 <p align="center">
   <img src="media/teaser_final.png" alt="Network" style="width:65%" />
 </p>
+
+## 🆕 News
+- 2025-03-04: The reference data and Shenyang subset have been supplemented in the download links, enabling access to the final complete version of the dataset.
+- 2026-02-04: WHU-STree is accepted by ISPRS J!
 
 ## 📌 Download
 
