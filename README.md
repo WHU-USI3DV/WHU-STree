@@ -26,13 +26,23 @@ Fill in this  [**Data Request**](https://wj.qq.com/s2/24852142/0539/) to obtain 
 
 ## ✅ Competition
 
+### 10th China LiDAR Conference Competition (2026, Shenzhen)
+
+Using the **entire dataset**, we organized an expanded competition for the 10th China LiDAR Conference.
+
+Compared with the previous competition, the task has been extended from individual tree segmentation to **joint individual tree segmentation and tree species classification**, aiming to advance automated urban vegetation understanding based on mobile mapping data.
+
+For detailed competition specifications, please refer to the [**official conference website**](https://www.lidar2026shenzhen.com/onepage.php?id=9).
+
+
+### 9th China LiDAR Conference Competition (2025, Wuhan)
+
 Utilizing **a portion of** the dataset, we organized an individual tree segmentation [**competition**](https://www.codabench.org/competitions/8821/) for the 9th China LiDAR Conference.
 
-For detailed competition specifications, please refer to the [**official conference website**](http://lidar2025wuhan.com/)
-
-<s>Participants may access the competition-version training and testing datasets by fill out this [**Data Request**](https://wj.qq.com/s2/22633489/3p1t/).</s>
+For detailed competition specifications, please refer to the [**official conference website**](http://lidar2025wuhan.com/).
 
 Since the competition has concluded, we will no longer provide the competition-version data.
+
 
 ## ✨ Dataset
 
@@ -83,7 +93,7 @@ Specifically,
 Each `traj.csv` records the ​**exterior orientation parameters**​ for every panoramic image at its exposure moment along the same trajectory.  
 
 ​**Per-record structure**:  
-`[image_filename, X, Y, Z, heading, pitch, roll]`  *(One record per image)*  
+`[image_filename, X, Y, Z, roll, pitch, heading]`  *(One record per image)*  
 
 ​**Functionality**:  
 These parameters enable ​**coarse registration**​ between point clouds and images.
