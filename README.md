@@ -15,7 +15,7 @@ This is the official repository of the following publication:
 </p>
 
 ## 🆕 News
-- 2026-07-21: The complete **WHU-STree** dataset will be used for the **Data Processing Competition of the 10th China LiDAR Conference**. We have also added `corrected_hdi.zip`, which contains corrected `traj.csv` files for WHU-STree-NJ. The ZIP archive is included directly in this GitHub repository for convenient download. Each file is named `[road_id]_[ply_id]_traj.csv`.
+- 2026-07-21: The **WHU-STree-NJ** dataset will be used for the **Data Processing Competition of the 10th China LiDAR Conference**. We have also added `corrected_hdi.zip`, which contains manually corrected `traj.csv` files based on visual inspection of the data alignment. The ZIP archive is included directly in this GitHub repository for convenient download. Each file is named `[road_id]_[ply_id]_traj.csv`.
 - 2026-03-04: The **reference data** and **Shenyang subset** have been supplemented in the download links, enabling access to the final complete version of the dataset.
 - 2026-02-04: **WHU-STree** is accepted by **ISPRS J**!
 
