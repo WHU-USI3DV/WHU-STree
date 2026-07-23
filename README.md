@@ -24,6 +24,11 @@ This is the official repository of the following publication:
 Fill in this  [**Data Request**](https://wj.qq.com/s2/24852142/0539/) to obtain the dataset. We provide download links for both Baidu Netdisk and Google Drive.
 
 **As the download links have changed multiple times, please ensure that you have obtained the final complete dataset. We welcome any questions or suggestions and would be grateful for your valuable feedback and guidance.**
+The newly added `corrected_hdi.zip` can be directly downloaded from this repository. Furthermore, visual comparisons before and after trajectory correction are provided to demonstrate the improvement in point cloud and image alignment.
+
+<p align="center">
+  <img src="media/00_1_row0011_projection.jpg" alt="Network" style="width:70%" />
+</p>
 
 ## ✅ Competition
 
