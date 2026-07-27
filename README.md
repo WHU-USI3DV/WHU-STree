@@ -34,7 +34,7 @@ The newly added `corrected_hdi.zip` can be directly downloaded from this reposit
 
 ### 10th China LiDAR Conference Competition (2026, Shenzhen)
 
-Using the **entire dataset**, we organized an expanded competition for the 10th China LiDAR Conference.
+Using the **WHU-STree-NJ**, we organized an expanded competition for the 10th China LiDAR Conference.
 
 Compared with the previous competition, the task has been extended from individual tree segmentation to **joint individual tree segmentation and tree species classification**, aiming to advance automated urban vegetation understanding based on mobile mapping data.
 
